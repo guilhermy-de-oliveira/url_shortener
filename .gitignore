@@ -1,6 +1,3 @@
-# Arquivos de áudio gerados
-*.mp3
-
 # Arquivos executáveis
 *.exe
 
@@ -17,3 +14,6 @@ venv/
 
 # Configurações locais do editor
 .vscode/
+
+# Pasta do Build
+_internal/
